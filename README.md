@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @wait-a-min
+- 👀 I’m interested in web development, open-source projects, and emerging technologies.
+- 🌱 I’m currently learning advanced JavaScript frameworks and exploring machine learning.
+- 💞️ I’m looking to collaborate on innovative tech projects, contributing to community-driven software, and developing new tools.
+- 📫 How to reach me: [cani1stkissu@gmail.com](mailto:cani1stkissu@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a robot that can play chess and beat me at it!
